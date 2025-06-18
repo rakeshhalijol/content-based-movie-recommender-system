@@ -2,4 +2,4 @@
 .venv/
 *.zip
 *.csv
-.lock
+*.lock
