@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/56913f762d0049c093717276612c9c1c/artifacts
+end_time: 1750250538051
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 56913f762d0049c093717276612c9c1c
+run_name: Content-Based Recommender
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750250533801
+status: 3
+tags: []
+user_id: I573453

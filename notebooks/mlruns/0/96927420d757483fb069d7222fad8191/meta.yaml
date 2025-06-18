@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/I573453/Desktop/AI/ML/projects/content-based-movie-recommender-system/notebooks/mlruns/0/96927420d757483fb069d7222fad8191/artifacts
+end_time: 1750250118562
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 96927420d757483fb069d7222fad8191
+run_name: BoW + Cosine Similarity
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750250115725
+status: 3
+tags: []
+user_id: I573453

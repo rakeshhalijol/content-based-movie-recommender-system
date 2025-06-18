@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/I573453/Desktop/AI/ML/projects/content-based-movie-recommender-system/notebooks/mlruns/0/1f0b058b97344a1fb3e47481b0c07a17/artifacts
+end_time: 1750250294676
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1f0b058b97344a1fb3e47481b0c07a17
+run_name: Content-Based Recommender
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750250294062
+status: 3
+tags: []
+user_id: I573453
